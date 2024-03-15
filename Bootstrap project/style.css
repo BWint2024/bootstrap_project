@@ -2,7 +2,7 @@
 
 /* Example: */
 .hero {
-    background: url('images/back.jpeg') center/cover no-repeat;
+    background: url('images/back.jpg') center/cover no-repeat;
     color: #fff;
     padding: 100px 0;
     text-align: center;
